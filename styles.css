@@ -1,0 +1,64 @@
+.webpage{
+    font-family: monospace;
+}
+
+header{
+    color: white;
+    background:#2e86c1;
+    text-align: center;
+    padding: 10px;
+    font-size: 25px;
+    
+}
+
+body{
+    background-color:#d5d5d5;
+}
+
+hr{
+    background-color: green;
+    padding-bottom: 1px;
+}
+h3{
+    margin: 0%;
+}
+h4{
+    margin-top: 1%;
+}
+
+h5 {
+    padding-top: 1px;
+    color: red;
+    font-size: 15px;
+}
+
+p{
+    font-size: 15px;
+}
+
+button{
+    color: wheat;
+    background-color: red;
+    font-size: 17px;
+    font-family: monospace;
+    
+
+
+
+}
+
+input{
+    border-color: aliceblue;
+    border-radius: 20px;
+    padding-right: 350px;
+    text-indent: 10px;
+    height: 20px;
+    background-color: aliceblue;
+    
+
+}
+
+#h2-result{
+    margin-bottom: 2%;
+
+}
